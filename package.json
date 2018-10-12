@@ -1,6 +1,6 @@
 {
-	"name": "@kunukn/dfds-colors",
-	"version": "0.0.6",
+	"name": "@dfds-frontend/colors",
+	"version": "0.0.1",
 	"description": "colors",
 	"main": "index.js",
 	"scripts": {
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kunukn/dfds-colors.git"
+		"url": "git+https://github.com/dfds-frontend/colors.git"
 	},
 	"files": [
 		"dist"
@@ -18,7 +18,7 @@
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/kunukn/dfds-colors/issues"
+		"url": "https://github.com/dfds-frontend/colors/issues"
 	},
-	"homepage": "https://github.com/kunukn/dfds-colors#readme"
+	"homepage": "https://github.com/dfds-frontend/colors#readme"
 }
