@@ -1,5 +1,7 @@
 # DFDS colors
 
+Unofficial library for DFDS
+
 ## main colors from CDN
 
 load the font by inluding this in html
